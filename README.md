@@ -1,4 +1,4 @@
-# We Are Developers World Congress
+# We Are Developers World Congress 2023
 
 ## Using WebAssembly to run, extend, and secure your application
 
